@@ -40,6 +40,3 @@ console.log(typeof myFunction)
 console.log(typeof heros)
 console.log(typeof anotherId)
 
-
-
-
